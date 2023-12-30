@@ -25,8 +25,7 @@ ItemDisplay[GOLD<100 (CLVL>11 OR FILTLVL>3)]:
 ItemDisplay[GOLD<200 (CLVL>23 OR FILTLVL>3)]:
 ItemDisplay[GOLD<400 (CLVL>39 OR FILTLVL>3)]:
 ItemDisplay[GOLD<1000 CLVL>79]:
-ItemDisplay[GOLD<2000 CLVL>79 FILTLVL>1]:
-ItemDisplay[GOLD<3000 CLVL>79 FILTLVL>3]:
+ItemDisplay[GOLD<3000 CLVL>79 FILTLVL>1]:
 ItemDisplay[GOLD<5000 CLVL>79 FILTLVL>4]:
 
 //Names of Superior and Inferior items to short in later step
