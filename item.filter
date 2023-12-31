@@ -1938,9 +1938,7 @@ ItemDisplay[STAFF SOCK=6 NMAG !RW]: %NAME%{%GRAY%Last Wish, Obsession, Silence%N
 
 //RuneWord Bases
 //Chests
-ItemDisplay[(xld OR xpl OR gth) !INF !ETH NMAG !RW !SOCK=1 ED>4]: %NAME%{%NAME%}
 ItemDisplay[xtp !INF !ETH NMAG !RW !SOCK=1 FILTLVL<4]: %NAME%{%NAME%}
-ItemDisplay[xtp !INF !ETH NMAG !RW !SOCK=1 ED>4 FILTLVL>3]: %DOT-D6%%NAME%{%NAME%}
 ItemDisplay[(utp OR uui OR uea OR ula OR utu OR urs OR uar) !INF !ETH NMAG !RW (SOCK=0 OR SOCK>2) FILTLVL<4]: %NAME%{%NAME%}
 ItemDisplay[(utp OR uui OR uea OR ula OR utu OR urs OR uar) !INF !ETH NMAG !RW (SOCK=0 OR SOCK>2) ED>4 FILTLVL>3]: %DOT-D6%%NAME%{%NAME%}
 ItemDisplay[CHEST ELT !INF !ETH NMAG !RW !SOCK=1 ED>4 FILTLVL<4]: %NAME%{%NAME%}
