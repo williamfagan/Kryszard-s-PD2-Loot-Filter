@@ -2508,10 +2508,10 @@ ItemDisplay[(t41 OR t42 OR t43)]: %NAME%{%WHITE%Immunes: %PURPLE%All %WHITE%Type
 ItemDisplay[t50 OR t51 OR t52 OR t53 OR t54 OR t55 OR t56 OR t57 OR t58 OR t59]: %NAME%{%WHITE%Immunes: %GRAY%Immune-Free Zone%NAME%}%CONTINUE%
 
 //Essences
-ItemDisplay[tes]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %BLUE%Andariel %WHITE%or %BLUE%Duriel}
-ItemDisplay[ceh]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %TAN%Mephisto}
-ItemDisplay[bet]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %RED%Diablo}
-ItemDisplay[fed]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %DARK_GREEN%Baal}
+//ItemDisplay[tes]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %BLUE%Andariel %WHITE%or %BLUE%Duriel}
+//ItemDisplay[ceh]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %TAN%Mephisto}
+//ItemDisplay[bet]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %RED%Diablo}
+//ItemDisplay[fed]: %PX-9D%%NAME%{%TAN%Essence %WHITE%from: %DARK_GREEN%Baal}
 
 //Uber Keys
 ItemDisplay[pk1]: %PX-9D%%NAME%{%TAN%Key %WHITE%from: %RED%Countess %WHITE%or %RED%Blood Raven}
